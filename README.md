@@ -176,3 +176,130 @@ e áreas de negócio.
 
 Essa carreira aproveita quase 100% do seu histórico, com foco em decisão, controle e visão sistêmica, não apenas execução técnica.
 
+Roadmap de Carreira – Especialista em GRC Tech (Cyber GRC)
+Olá! Recebi suas informações do entrevistador.
+
+Vejo que você escolheu Especialista em GRC Tech e tem 10 horas semanais disponíveis para estudo. Perfeito — isso é mais do que suficiente para uma evolução estratégica e sustentável, sem sobrecarga.
+
+🧭 Visão Geral do Plano
+Perfil identificado
+
+Experiência sólida (10 anos)
+Forte base em segurança e auditoria
+Preferência por pessoas + dados
+Interesse em segurança, governança e cloud
+Objetivo: crescimento na função atual
+👉 Portanto, não é um plano para iniciantes, e sim para posicionamento sênior e consolidação como referência em GRC Tech.
+
+
+
+🎯 Objetivo do Roadmap (12 meses)
+Ao final deste plano, você estará apto a:
+
+Atuar como Especialista ou Referência em GRC Tech
+Liderar iniciativas de Governança, Risco e Compliance em ambientes cloud
+Dialogar com auditoria, jurídico, negócio e tecnologia
+Concorrer (ou já ocupar) posições como:
+Cyber GRC Specialist
+GRC Lead
+Consultor Sênior de Governança e Risco
+Security & Compliance Manager (linha técnica/estratégica)
+⏱️ Organização do Tempo (10h/semana)
+Recomendação fixa:
+
+4h – Fundamentos e frameworks
+3h – Cloud + Segurança aplicada
+2h – Estudos de caso / documentação real
+1h – Posicionamento profissional (artigos, LinkedIn, networking)
+🗺️ Roadmap por Fases
+🔹 FASE 1 (0–3 meses) — Consolidação de Fundamentos de GRC
+🎯 Objetivo: alinhar conceitos, linguagem e frameworks usados pelo mercado.
+
+Conteúdos-chave
+Governança de TI vs Governança Corporativa
+Gestão de riscos tecnológicos
+Compliance regulatório
+Papel do GRC em segurança da informação
+Frameworks prioritários
+ISO/IEC 27001 & 27002
+COBIT 2019
+NIST Risk Management Framework
+LGPD (visão GRC, não jurídica)
+✅ Resultado esperado
+
+Você fala “a língua” de executivos, auditores e times técnicos
+Consegue mapear riscos, controles e responsabilidades
+🔹 FASE 2 (4–6 meses) — GRC aplicado à Cloud e Segurança
+🎯 Objetivo: unir GRC + Cloud + Segurança (seu grande diferencial).
+
+Conteúdos-chave
+Governança em ambientes AWS / Azure / GCP
+Shared Responsibility Model
+Gestão de riscos em cloud
+Compliance em ambientes híbridos e multi-cloud
+Práticas importantes
+Mapeamento de riscos cloud
+Criação de matrizes Risco × Controle × Framework
+Avaliação de conformidade (ISO, NIST, CIS Benchmarks)
+✅ Resultado esperado
+
+Você se posiciona como GRC Tech, não apenas “GRC teórico”
+Capaz de apoiar arquitetos, segurança e auditoria ao mesmo tempo
+🔹 FASE 3 (7–9 meses) — Atuação Estratégica e Visibilidade
+🎯 Objetivo: sair do operacional invisível para o estratégico visível.
+
+Desenvolvimento profissional
+Escrita de artigos curtos (LinkedIn)
+Documentação de estudos de caso (mesmo internos)
+Participação em comunidades (ISACA, eventos, fóruns)
+Habilidades-chave
+Comunicação de risco para não técnicos
+Relatórios executivos
+Tradução de risco técnico em impacto de negócio
+✅ Resultado esperado
+
+Reconhecimento interno
+Convites para decisões estratégicas
+Perfil pronto para cargos sênior
+🔹 FASE 4 (10–12 meses) — Consolidação e Próximo Nível
+🎯 Objetivo: consolidar autoridade e abrir portas para cargos mais altos.
+
+Foco
+Liderança técnica em GRC
+Mentoria de times
+Planejamento de longo prazo em segurança e governança
+Possíveis próximos passos
+Evoluir para GRC Lead
+Migrar para Security Manager
+Atuar como Consultor Sênior / Especialista Referência
+✅ Resultado esperado
+
+Crescimento claro de escopo, influência e remuneração
+📜 Certificações (ordem estratégica)
+Não é obrigatório fazer todas — a ordem importa mais que a quantidade:
+
+ISO 27001 Lead Implementer ou Auditor
+COBIT 2019 Foundation
+CRISC (ISACA) – altamente alinhada ao seu perfil
+(Opcional) CGEIT para posições ainda mais estratégicas
+🧠 Diferencial do seu Perfil
+Seu maior ativo não é técnico apenas — é a combinação rara de:
+
+Segurança ✅
+Auditoria ✅
+Governança ✅
+Cloud ✅
+Comunicação com pessoas ✅
+👉 Isso é exatamente o que o mercado chama de GRC Tech Sênior.
+
+
+
+✅ Conclusão Direta
+Com 10 horas semanais, você não precisa trocar de carreira, apenas se reposicionar.
+
+Este roadmap:
+
+Maximiza sua experiência prévia
+Minimiza retrabalho
+Acelera crescimento real
+Evita virar “mais um técnico”
